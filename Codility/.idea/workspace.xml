@@ -56,8 +56,8 @@
       <file leaf-file-name="UptakePreSuf.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/uptake/UptakePreSuf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49734747">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.59681696">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -950,7 +950,7 @@
       <option name="number" value="Default" />
       <updated>1477277540488</updated>
       <workItem from="1477277542471" duration="24570000" />
-      <workItem from="1477371076243" duration="645000" />
+      <workItem from="1477371076243" duration="1072000" />
     </task>
     <servers />
   </component>
@@ -987,7 +987,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25215000" />
+    <option name="totallyTimeSpent" value="25642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -1311,8 +1311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/uptake/UptakePreSuf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49734747">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.59681696">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

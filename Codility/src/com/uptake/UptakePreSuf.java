@@ -10,7 +10,6 @@ public class UptakePreSuf {
 
     public int solution(String S)
     {
-
             int length = S.length();
             int[] sizes = new int[length+1];
             String prefix;
@@ -30,14 +29,6 @@ public class UptakePreSuf {
             {
                 return maxValue.getAsInt();
             }
-
-
-
             return 0;
-
-
-
-
-
     }
 }
